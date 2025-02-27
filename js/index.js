@@ -17,3 +17,11 @@ console.log(
 );
 
 console.log("알맞은 스크립트를 작성하세요");
+
+function alertSubmitComment() {
+  alert("댓글이 등록되었습니다.")
+}
+
+// function alertSubmitComment() = document.getElementById("comment").addEventListener(
+//   alert("댓글이 등록되었습니다.")
+// );
